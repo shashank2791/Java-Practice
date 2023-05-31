@@ -9,17 +9,17 @@ public class Second {
 /*Data Types
  *Primitive - 
     Integer     
-                Int - 4 bytes
-                long - 8 bytes
+                int - 4 bytes
+                long - 8 bytes (Put l at end of number)
                 short - 2 bytes
                 byte - 1 byte - -128 to 127
 
     Float 
-                Float - 4 bytes
-                Double - 8 bytes
+                float - 4 bytes (Put f at end of number)
+                double - 8 bytes (By default)
 
     Character 
-                Char - 2 Bytes (UNICODE)
+                char - 2 Bytes (UNICODE)
 
-    Bool        only True and False
+    Bool        boolean - only True and False
  */
