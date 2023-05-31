@@ -12,6 +12,10 @@
 >>><li>Switch Statement</li>
 >>><li>Handling Inputs</li>
 >>></ul>
+<br>
+<br> 
+
+>####  PS Still in Progress. Trying to build consistency :) 
 
 
 
