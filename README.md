@@ -1,7 +1,7 @@
 ## Java-Practice
 
 > Trying to get back at Java Development and practicing the basics.
->> Hope to cover the basics of Java like
+>> Concepts covered till now
 >>><ul>
 >>><li>Data Types</li>
 >>><li>Syntax</li>
@@ -11,6 +11,8 @@
 >>><li>Loops</li>
 >>><li>Switch Statement</li>
 >>><li>Handling Inputs</li>
+>>><li>Classes and Objects</li>
+>>><li>Methods</li>
 >>></ul>
 <br>
 <br> 
