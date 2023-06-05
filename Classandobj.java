@@ -5,8 +5,7 @@ class io{
     public int getint(){
             System.out.println("Enter an Integer: ");
             int temp = sc.nextInt();
-            return temp;
-        
+            return temp;    
     }
 }
 
