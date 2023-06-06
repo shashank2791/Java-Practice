@@ -13,6 +13,8 @@
 >>><li>Handling Inputs</li>
 >>><li>Classes and Objects</li>
 >>><li>Methods</li>
+>>><li>Overloading</li>
+>>><li>Arrays</li>
 >>></ul>
 <br>
 <br> 
