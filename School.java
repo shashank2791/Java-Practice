@@ -18,7 +18,7 @@ class students{
         name = sc.nextLine();
         System.out.println("Enter student class: ");
         class_name = sc.next().charAt(0);
-        roll_number = roll;
+        this.roll_number = roll;
         this.name = name;
         this.class_name = class_name; 
     }
