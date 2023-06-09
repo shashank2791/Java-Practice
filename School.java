@@ -25,6 +25,9 @@ class students{
         
         return students.count;
     }
+    public static void close_scanner(){
+        sc.close();
+    }
 }
 public class School {
     public static void main(String[] args) {
@@ -37,6 +40,7 @@ public class School {
         for(students t: s){
             students.put_student_details(t);
         }
+        students.close_scanner();
         
     }
 
